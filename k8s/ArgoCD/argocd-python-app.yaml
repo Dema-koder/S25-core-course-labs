@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/Dema-koder/S25-core-course-labs.git
-    targetRevision: lab13
+    targetRevision: lab-13
     path: k8s/my-app
     helm:
       valueFiles:
